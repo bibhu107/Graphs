@@ -63,7 +63,7 @@ int main()
 							}
 						}
 						if(flag == 0)
-							cout << "No" << endl; 
+							cout << "No" <<endl; 
 				}
 			}
 
